@@ -1,4 +1,4 @@
-Atlanta Small-Business Website
+Atlanta Small-Business Websites
 =======
 
 Files for Atlanta-area small-business websites.
