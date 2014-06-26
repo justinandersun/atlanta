@@ -1,7 +1,18 @@
 Atlanta Small-Business Websites
 =======
 
-Files for Atlanta-area small-business websites.
+These files serve as building materials for the websites of Atlanta-based small-businesses.
 
+This website is built on a simple PHP framework.
+==
 
-We will be following a basic PHP framework.
+  head.php - contains all meta data, stylesheets, and some scripts
+  
+  header.php - contains cross-page navigation
+  
+  footer.php - contains scripts and footer information
+  
+  folders/index.php - contain markup for individual pages
+
+==
+Although basic, these files serve as an organized template for simple websites.
