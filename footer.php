@@ -1,10 +1,6 @@
-<footer>
-	&copy; 2014 Harry's Pizza &amp; Subs. Site by
-	<a href="http://andersun.com">Justin Andersun</a> and Steve Gehrig.
-	<?php
-		$date = new DateTime();
-		echo 'Generated at ';
-		echo $date->format('H:i');
-		echo ' EST.';
-	?>
-</footer>
+	<footer>
+		&copy; <?php echo(date('Y')); ?> Harry's Pizza &amp; Subs. All Rights Reserved. Site by
+		<a href="http://andersun.com">Justin Andersun</a> and <a href="http://stevegehrig.com">Steve Gehrig</a>.
+	</footer>
+</body>
+</html>

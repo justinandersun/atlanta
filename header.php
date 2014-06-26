@@ -1,18 +1,12 @@
 <header>
 	<h1>Harry's Pizza and Subs</h1>
 	<nav>
-		<?php $pageName=basename($_SERVER['REQUEST_URI'], '.php') ?>
-		<a
-			<?php
-				if ($pageName=='index')	echo "id=\"current\"";
-				else echo "class=\"link\"";
-			?> href="index.php">Home
-		</a>
-		<a
-			<?php
-				if ($pageName=='staff')	echo "id=\"current\"";
-				else echo "class=\"link\"";
-			?> href="contact.php">Contact
-		</a>
+		<a href="..\">Home</a>
+		<a href="..\about">About</a>
+		<a href="..\menu">Menu</a>
+		<a href="..\coupons">Coupons</a>
+		<a href="..\events">Events</a>
+		<a href="..\location">Location</a>
+		<a href="..\contact">Contact</a>
 	</nav>
 </header>
