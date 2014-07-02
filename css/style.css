@@ -1,0 +1,22 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+	text-align: center;
+}
+
+header {
+	padding: 1em;
+}
+	
+	header a {
+		padding: 1em;
+		text-decoration: none;
+		color: red;
+		font-size: 2em;
+		text-transform: uppercase;
+		border: 1px solid red;
+	}
