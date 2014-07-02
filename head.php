@@ -13,5 +13,7 @@
 	<!-- STYLESHEETS -->
 	<link type="text/css" rel="stylesheet" href="css/style.css">
 	<link type="text/css" rel="stylesheet" href="..\css/style.css">
+	<link type="text/css" rel="stylesheet" href="css/grid.css">
+	<link type="text/css" rel="stylesheet" href="..\css/grid.css">
 </head>
 <body>
