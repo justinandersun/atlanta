@@ -7,6 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	<meta name="description" content="Harry's Pizza &amp; Subs of Atlanta, GA.">
 	<meta name="author" content="Justin Andersun">
+	<meta name="author" content="Steve Gehrig">
 	<!-- SCRIPTS -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="script.js"></script>
