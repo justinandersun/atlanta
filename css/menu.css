@@ -34,8 +34,8 @@ button {
 	font-family: inherit;
 }
 
-button #topbutton{
-	border-bottom:1px solid #CCC;	
+#topbutton{
+	border-bottom:2px solid red;
 }
 
 button:focus {

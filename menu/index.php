@@ -40,10 +40,8 @@
 		<div id="p9" class="panel">Hello world!</div>
 
 		<div class="open-collapse">
-        	<div id="topbutton">
-				<button type="button" onclick="collapseall()">COLLAPSE ALL </button>
-            </div>
-				<button type="button" onclick="openall()">OPEN ALL </button>
+			<button id="topbutton" type="button" onclick="collapseall()">COLLAPSE ALL </button>
+			<button type="button" onclick="openall()">OPEN ALL </button>
 		</div>
 	</div>
 <?php include('../footer.php'); ?>
