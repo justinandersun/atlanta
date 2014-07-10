@@ -14,6 +14,11 @@
 	</div>
 	</header>
 
-	<h3>Harry's Pizza and Subs</h3>
+	<div id="home">
+		<div class="overlay">
+			<h3>Harry's Pizza and Subs</h3>
+			<h4>Est. 1969 in Atlanta, GA</h4>
+		</div>
+	</div>
 
 <?php include('footer.php'); ?>

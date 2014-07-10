@@ -21,3 +21,15 @@
 	background-color: blue;
 	padding: 1em;
 }
+
+button {
+	text-decoration: none;
+	border: none;
+	background-color: #FFFFFF;
+	padding: 1em;
+	display: block;
+	margin: 0.2em 0em;
+	font-size: 1em;
+	letter-spacing: 0.1em;
+	width: 15em;
+}

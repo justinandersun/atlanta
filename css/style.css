@@ -8,11 +8,11 @@ body {
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 1.2em;
+	font-family: 'Raleway', sans-serif;
 }
 
 header {
-	padding: 1em;
-	border-bottom: 1em solid blue;
+	padding: 0em 1em;
 	position: fixed;
 	z-index: 2;
 	width: 100%;
@@ -43,12 +43,29 @@ a {
 	border-bottom: 1px solid purple;
 }
 
-h3 { 
-	margin-top: 10em;
+h3 { }
+
+
+/* HOME */
+#home {
+	background-image: url(piz.jpg);
+	height: 50em;
+	margin-top: 0;
 }
+	#
+	#home h3 {
+		color: #FFFFFF;
+		font-size: 2.5em;
+		top: 5em;
+		font-weight: 300;
+		line-height: 0em;
+		position: fixed;
+		z-index: 10;
+		width: 100%;
+	}
+
 
 footer {
-	margin-top: 20%;
 	bottom: 0;
 	background-color: #444444;
 	color: #999999;
