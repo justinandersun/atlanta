@@ -8,17 +8,15 @@
 		<div id="p1" class="panel">
 	    <div id="items">
 	   
-	    <p> item 1</p>
-	    <p> item 2</p>
-	    <p> item 3</p>
-	    <p> item 4</p>
+	    <p> Harry's New York Burger (served with Fries)</p>
+	    <p> Harry's Hotdog (served with Fries)</p>
+	    <p> Harry's New York Style Cheesecake</p>
 	    
 	    </div>
 	    <div id="prices">
-	    <p> price</p>
-	    <p> price</p>
-	    <p> price</p>
-	    <p> price</p>
+	    <p> $7.99</p>
+	    <p> $6.99</p>
+	    <p> $2.25</p>
 	    </div>
 	    </div> <!-- END P1 -->
 		<div id="2" class="flip">Appetizers & Extras</div>
@@ -41,9 +39,11 @@
 		<div id="9" class="flip">Harry's Dinners</div>
 		<div id="p9" class="panel">Hello world!</div>
 
-		<div id="open-collapse">
-			<button type="button" onclick="collapseall()">Collapse all </button>
-			<button type="button" onclick="openall()">Open all </button>
+		<div class="open-collapse">
+        	<div id="topbutton">
+				<button type="button" onclick="collapseall()">COLLAPSE ALL </button>
+            </div>
+				<button type="button" onclick="openall()">OPEN ALL </button>
 		</div>
 	</div>
 <?php include('../footer.php'); ?>

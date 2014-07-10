@@ -12,25 +12,34 @@
 	display:none;
 }
 
-#open-collapse {
+.open-collapse {
 	position: fixed;
 	z-index: 10;
-	top: 15em;
+	top: 18em;
 	right: 0em;
 	background-color: none;
 }
 
 button {
 	text-decoration: none;
-	border-right:none;
-	border-top: none;
+	border: none;
 	background-color: #FFFFFF;
-	padding: 1em;
+	height: 3em;
 	display: block;
 	font-size: .65em;
 	letter-spacing: 0.05em;
-	width: 8em;
-	background:#F7F7F7;
+	width: 9em;
+	color: #999999;
+	background:#FFFFFF;
+	font-family: inherit;
+}
+
+button #topbutton{
+	border-bottom:1px solid #CCC;	
+}
+
+button:focus {
+ outline: none;	
 }
 
 #items{
