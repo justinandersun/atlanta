@@ -81,6 +81,11 @@ h3 { }
 		}
 
 
+/* MENU */
+#menu {
+	margin-top: 7em;
+}
+
 footer {
 	bottom: 0em;
 	background-color: #444444;
@@ -88,3 +93,11 @@ footer {
 	border-top: 1em solid #777777;
 	padding: 1em 0em;
 }
+	footer #hours-location {
+		margin-bottom: 2em;
+	}
+	footer h4 { 
+		font-size: 1.5em;
+		text-transform: uppercase;
+		line-height: 0em;
+	}
