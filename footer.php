@@ -1,14 +1,14 @@
 	<footer>
 		<div id="test" class="grid_12">
 			<div id="test" class="grid_6">
-				<p>LOCATION
-				<br>2150 Powers Ferry Road
+				<h4>Locations</h4>
+				<p>2150 Powers Ferry Road
 				<br>Atlanta, Georgia 30339
 				<br>(770) 955 - 4413</p>
 			</div>
 			<div id="test" class="grid_5">
-				<p>HOURS
-				<br>Monday - Thursday: 11am - 10pm
+				<h4>Hours</h4>
+				<p>Monday - Thursday: 11am - 10pm
 				<br>Friday:  11am - 11pm
 				<br>Saturday: 11am - 10pm
 				<br>Sunday: 4pm - 10pm</p>

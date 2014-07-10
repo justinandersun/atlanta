@@ -19,5 +19,6 @@
 	<link type="text/css" rel="stylesheet" href="..\css/grid.css">
 	<link type="text/css" rel="stylesheet" href="..\css/menu.css">
 	<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 </head>
 <body>

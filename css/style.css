@@ -14,33 +14,41 @@ body {
 header {
 	padding: 0em 1em;
 	position: fixed;
-	z-index: 2;
+	z-index: 10;
 	width: 100%;
-	display: block;
-	background: green;
+	background: #990000;
 	top: 0;
+	height: 5em;
 }
-
+	header h1 {
+		color: #FFFFFF;
+		font-family: 'Pacifico', cursive;
+		font-weight: 300;
+		line-height: 0;
+		margin-top: 1.5em;
+	}
 	nav {
 		margin: 2em 0em;
 		display: inline-block;
+		text-align: center;
 	}
 
-	header a {
-		padding: 1em;
+	nav a {
+		padding: 0.5em;
 		text-decoration: none;
-		color: red;
-		font-size: 1.2em;
+		color: #DA3535;
 		text-transform: uppercase;
-		border: 1px solid red;
+		border: none;
+		font-size: 1.2em;
+		line-height: 0;
 	}
 
 p { }
 
 a {
 	text-decoration: none;
-	color: purple;
-	border-bottom: 1px solid purple;
+	color: orange;
+	border-bottom: 2px solid orange;
 }
 
 h3 { }
@@ -52,22 +60,31 @@ h3 { }
 	height: 50em;
 	margin-top: 0;
 }
-	#
-	#home h3 {
-		color: #FFFFFF;
-		font-size: 2.5em;
-		top: 5em;
-		font-weight: 300;
+	#home .overlay {
 		line-height: 0em;
 		position: fixed;
 		z-index: 10;
 		width: 100%;
+		top: 10em;
+		color: #FFFFFF;
 	}
+	.overlay h3 {
+		font-size: 4em;
+		font-weight: 300;
+		font-family: 'Pacifico', cursive;
+		padding-bottom: 0.5em;
+		text-shadow: 2px 2px #cc0000;
+	}
+		.overlay h4 {
+			font-size: 2.5em;
+			font-weight: 700;
+		}
 
 
 footer {
-	bottom: 0;
+	bottom: 0em;
 	background-color: #444444;
 	color: #999999;
 	border-top: 1em solid #777777;
+	padding: 1em 0em;
 }
