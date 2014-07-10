@@ -1,6 +1,6 @@
 	<footer>
 		<div id="test" class="grid_12">
-			<div id="test" class="grid_5">
+			<div id="test" class="grid_6">
 				<p>LOCATION
 				<br>2150 Powers Ferry Road
 				<br>Atlanta, Georgia 30339

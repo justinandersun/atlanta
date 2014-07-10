@@ -7,12 +7,12 @@ body {
 	width: 100%;
 	text-align: center;
 	font-family: sans-serif;
+	font-size: 1.2em;
 }
 
 header {
 	padding: 1em;
-	border-bottom: 3px solid green;
-	height: 6em;
+	border-bottom: 1em solid blue;
 	position: fixed;
 	z-index: 2;
 	width: 100%;
@@ -22,6 +22,7 @@ header {
 }
 
 	nav {
+		margin: 2em 0em;
 		display: inline-block;
 	}
 
@@ -34,6 +35,14 @@ header {
 		border: 1px solid red;
 	}
 
+p { }
+
+a {
+	text-decoration: none;
+	color: purple;
+	border-bottom: 1px solid purple;
+}
+
 h3 { 
 	margin-top: 10em;
 }
@@ -41,4 +50,7 @@ h3 {
 footer {
 	margin-top: 20%;
 	bottom: 0;
+	background-color: #444444;
+	color: #999999;
+	border-top: 1em solid #777777;
 }

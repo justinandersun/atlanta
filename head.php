@@ -11,10 +11,12 @@
 	<!-- SCRIPTS -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="script.js"></script>
+	<script src="..\js/menu.js"> </script>
 	<!-- STYLESHEETS -->
 	<link type="text/css" rel="stylesheet" href="css/style.css">
 	<link type="text/css" rel="stylesheet" href="..\css/style.css">
 	<link type="text/css" rel="stylesheet" href="css/grid.css">
 	<link type="text/css" rel="stylesheet" href="..\css/grid.css">
+	<link type="text/css" rel="stylesheet" href="..\css/menu.css">
 </head>
 <body>
