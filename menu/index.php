@@ -1,12 +1,30 @@
 <?php include('..\head.php'); ?>
-<?php include('..\header.php'); ?>
+<!--<?php include('..\header.php'); ?> -->
 
 	<h3>MENU</h3>
 
 	<div id="1" class="flip">Harry's New York Treats</div>
-	<div id="p1" class="panel">Hello world!</div>
+	<div id="p1" class="panel">
+    <div id="items">
+   
+    <p> item 1</p>
+    <p> item 2</p>
+    <p> item 3</p>
+    <p> item 4</p>
+    
+    </div>
+    <div id="prices">
+    <p> price</p>
+    <p> price</p>
+    <p> price</p>
+    <p> price</p>
+    </div>
+    </div> <!-- END P1 -->
 	<div id="2" class="flip">Appetizers & Extras</div>
-	<div id="p2" class="panel">Hello world!</div>
+	<div id="p2" class="panel">
+    
+    
+    </div><!-- END P2 -->
 	<div id="3" class="flip">Chicken Wings</div>
 	<div id="p3" class="panel">Hello world!</div>
 	<div id="4" class="flip">Fresh Salads</div>

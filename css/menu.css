@@ -9,7 +9,6 @@
 }
 
 .panel {
-	padding:50px;
 	display:none;
 }
 
@@ -17,19 +16,27 @@
 	position: fixed;
 	z-index: 10;
 	top: 15em;
-	left: 0em;
-	background-color: blue;
-	padding: 1em;
+	right: 0em;
+	background-color: none;
 }
 
 button {
 	text-decoration: none;
-	border: none;
+	border-right:none;
+	border-top: none;
 	background-color: #FFFFFF;
 	padding: 1em;
 	display: block;
-	margin: 0.2em 0em;
-	font-size: 1em;
-	letter-spacing: 0.1em;
-	width: 15em;
+	font-size: .65em;
+	letter-spacing: 0.05em;
+	width: 8em;
+	background:#F7F7F7;
+}
+
+#items{
+	float: left;
+}
+
+.prices{
+	float: right;
 }
