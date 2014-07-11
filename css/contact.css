@@ -16,12 +16,12 @@
 	margin-top: 0em;
 	color: #FFFFFF;
 }
-	.page-content {
-		padding-top: 7em;
+	#contact > .page-content {
+		padding-top: 3em;
 		margin: 0% 15%;
 		width: 70%;
 	}
-	.page-content p {
-		font-size: 1.3em;
-		line-height: 1.2em;
+	#contact > .page-content p {
+		font-size: 2em;
+		line-height: 1em;
 	}

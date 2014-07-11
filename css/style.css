@@ -96,12 +96,12 @@ h3 {
 	margin-top: 0em;
 	color: #FFFFFF;
 }
-	.page-content {
+	#events > .page-content {
 		padding-top: 7em;
 		margin: 0% 15%;
 		width: 70%;
 	}
-	.page-content p {
+	#events > .page-content p {
 		font-size: 1.3em;
 		line-height: 1.2em;
 	}
