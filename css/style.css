@@ -28,9 +28,11 @@ header {
 		margin-top: 1.5em;
 	}
 	nav {
-		margin: 2em 0em;
+		margin: 1.3em 0em;
 		display: inline-block;
 		text-align: center;
+		padding: 0.7em 0em;
+		color: #DA3535;
 	}
 
 	nav a {
@@ -103,10 +105,13 @@ h3 {
 		font-size: 1.3em;
 		line-height: 1.2em;
 	}
-		.page-content > .brag {
-			font-size: 2.2em;
-		}
+		.page-content > .brag { font-size: 2.2em; }
 
+
+/* FACEBOOK */
+.fb-like {
+	width: 100%;
+}
 
 footer {
 	bottom: 0em;
