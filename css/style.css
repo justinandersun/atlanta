@@ -107,6 +107,15 @@ h3 {
 			font-size: 2.2em;
 		}
 
+#contact {
+	background-image: url(Old-phone.jpg);
+	font-size: 1.3em;	
+	height: 50em;
+	margin-top: 0em;
+}
+#number {
+	font-size:large;	
+}
 
 footer {
 	bottom: 0em;
