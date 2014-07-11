@@ -107,16 +107,23 @@ h3 {
 	}
 		.page-content > .brag { font-size: 2.2em; }
 
-
-#contact {
-	background-image: url(Old-phone.jpg);
-	font-size: 1.3em;	
+/* COUPONS */
+#coupons {
+	background: #999999;
 	height: 50em;
 	margin-top: 0em;
+	color: #FFFFFF;
 }
-#number {
-	font-size:large;	
-}
+	#coupons > .page-content {
+		padding-top: 7em;
+		margin: 0% 15%;
+		width: 70%;
+	}
+	#coupons > .page-content p {
+		font-size: 2em;
+		line-height: 1em;
+	}
+
 
 footer {
 	bottom: 0em;
