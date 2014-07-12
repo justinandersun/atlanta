@@ -2,10 +2,11 @@
 /* CSS Document */
 
 .panel,.flip {
-	padding:5px;
+	padding: 0.7em;
+	margin: 0em 9em;
 	text-align:center;
-	background-color:#e5eecc;
-	border:solid 1px #c3c3c3;
+	background-color:#999999;
+	border:solid 1px #777777;
 }
 
 .panel {
@@ -15,7 +16,7 @@
 .open-collapse {
 	position: fixed;
 	z-index: 10;
-	top: 18em;
+	top: 18.7em;
 	right: 0em;
 	background-color: none;
 }
@@ -23,29 +24,28 @@
 button {
 	text-decoration: none;
 	border: none;
-	background-color: #FFFFFF;
-	height: 3em;
+	background-color: #990000;
+	height: 2.5em;
 	display: block;
-	font-size: .65em;
 	letter-spacing: 0.05em;
 	width: 9em;
-	color: #999999;
-	background:#FFFFFF;
+	color: #FFFFFF;
 	font-family: inherit;
+	font-size: 1em;
 }
 
-#topbutton{
-	border-bottom:2px solid red;
-}
+#topbutton{ border-bottom:2px solid #DA3535; }
 
-button:focus {
- outline: none;	
-}
+button:focus { outline: none; }
 
 #items{
 	float: left;
+	text-align: justify;
+	margin-left: 2em;
 }
 
 .prices{
 	float: right;
+	text-align: justify;
+	margin-left: 2em;
 }

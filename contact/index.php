@@ -4,7 +4,7 @@
     <section id="contact">
 		<div class="page-content">
 			<h3>Contact</h3>
-        	<p>Order Ahead: (770) 955-4413</p>
+        	<p>Order ahead at (770) 955-4413</p>
         </div>
     </section>
 
